@@ -2,12 +2,13 @@
   {
     "id": 1,
     "name": "Snorlax",
-    "set_code": "SSH",
+    "set_code": "swshp",
     "card_number": "140/202",
     "language": "EN",
-    "is_foil": 0,
-    "tcgplayer_price": 0.0,
+    "finish": "reverse_holofoil",
+    "is_foil": 1,
+    "tcgplayer_price": null,
     "image_url": "",
-    "date_added": "2026-08-13 21:10:29"
+    "date_added": "2026-08-14 14:39:12"
   }
 ]
