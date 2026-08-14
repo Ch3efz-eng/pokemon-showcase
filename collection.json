@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 2,
+    "name": "Snorlax",
+    "set_code": "ble",
+    "card_number": "140/202",
+    "language": "EN",
+    "finish": "reverse_holofoil",
+    "is_foil": 1,
+    "tcgplayer_price": 3.91,
+    "image_url": "https://assets.tcgdex.net/en/swsh/swsh1/140/high.png",
+    "date_added": "2026-08-14 15:14:11"
+  }
+]
